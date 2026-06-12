@@ -9,6 +9,7 @@
 	</project>
 	<project name="michael-elomar/libneutron" path="packages/libneutron" revision="master"/>
 	<project name="michael-elomar/libnexus" path="packages/libnexus" revision="master"/>
+	<project name="michael-elomar/libnostr" path="packages/libnostr" revision="master"/>
 	<!-- product repo -->
 	<project name="michael-elomar/pandora-product" path="products/pandora" revision="master"/>
 </manifest>
